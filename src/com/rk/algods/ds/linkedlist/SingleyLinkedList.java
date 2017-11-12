@@ -1,10 +1,10 @@
 package com.rk.algods.ds.linkedlist;
 
-public class LinkedList {
+public class SingleyLinkedList {
 
 	Node first;
 	
-	public LinkedList() {
+	public SingleyLinkedList() {
 		
 	}
 	

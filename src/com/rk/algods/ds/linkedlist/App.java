@@ -44,7 +44,7 @@ public class App {
 	}
 	
 	private static void testLinkedList(){
-		LinkedList linkedList = new LinkedList();
+		SingleyLinkedList linkedList = new SingleyLinkedList();
 		/*linkedList.insertFirst(4);
 		linkedList.insertFirst(3);
 		linkedList.insertFirst(2);*/
